@@ -3,7 +3,7 @@
 To launch the end-to-end microservices application perform the following:
 
 ### Step 1.
-Navigate into the [frontend](https://github.com/cloudacademy/python-flask-microservices/tree/master/frontend) directory, and confirm the presence of the ```docker-compose.deploy.yml``` file:
+Navigate into the [frontend] directory, and confirm the presence of the ```docker-compose.deploy.yml``` file:
 ```
 cd frontend
 ls -la
