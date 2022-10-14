@@ -1,19 +1,4 @@
 # Mastering Microservices with Python, Flask, and Docker
-Interested in microservices, and how they can be used for increased agility and scalability?
-
-Microservices is an architectural style and pattern that structures an application as a collection of coherent services. Each service is highly maintainable, testable, loosely coupled, independently deployable, and precisely focused.
-
-This [course](https://cloudacademy.com/course/mastering-microservices-with-python-flask-docker-1118) takes a hands-on look at microservices using Python, Flask, and Docker. You'll learn how Flask can be used to quickly prototype and build microservices, as well as how to use Docker to host and deploy them.
-
-:metal:
-
-## Project Structure
-The Python Flask based microservices project is composed of the following 4 projects: 
-* [frontend](https://github.com/cloudacademy/python-flask-microservices/tree/master/frontend)
-* [user-service](https://github.com/cloudacademy/python-flask-microservices/tree/master/user-service)
-* [product-service](https://github.com/cloudacademy/python-flask-microservices/tree/master/product-service)
-* [order-service](https://github.com/cloudacademy/python-flask-microservices/tree/master/order-service)
-
 ## Microservices Setup and Configuration
 To launch the end-to-end microservices application perform the following:
 
