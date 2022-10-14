@@ -115,6 +115,5 @@ The following Python extensions were used:
 
 * Flask-SQLAlchemy: https://flask-sqlalchemy.palletsprojects.com/en/2.x/
 * Flask-Login: https://flask-login.readthedocs.io/en/latest/
-* Flask-Migrate: https://github.com/miguelgrinberg/flask-migrate/
 * Requests: https://requests.readthedocs.io/en/master/
 "# microservice-flask-ecommerce-website" 
