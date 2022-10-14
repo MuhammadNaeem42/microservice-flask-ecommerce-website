@@ -1,0 +1,11 @@
+{% extends "base_col_1.html" %}
+{% block content %}
+<br/>
+<h2>you searched for</h2>
+<p> {{ searched }}</p>
+<br/>
+{% for product in products %}
+<p>{{ product.name }} </p>
+{% endfor %}
+
+{% endblock %}
