@@ -19,6 +19,7 @@ docker network create micro_network
 Build each of the microservice Docker container images:
 ```
 docker-compose -f docker-compose.deploy.yml build
+docker-compose -f docker-compose.deploy.yml up -d
 docker images
 ```
 
